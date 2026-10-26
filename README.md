@@ -76,6 +76,20 @@ Working portfolio application with Docker deployment, resume analysis, semantic 
 
 Job postings currently use demonstration data rather than a live job-search provider.
 
+
+## 🎥 Project Demo
+
+Watch a narrated demonstration of the AI Job Matching Assistant, including:
+
+- PDF resume upload and technical skill extraction
+- AI-powered job recommendations
+- Semantic similarity scoring
+- Interactive job ranking dashboard
+- Technical skill-gap analysis
+
+[▶ Watch the AI Job Matching Assistant Demo](demo/ai_job_matching_demo.mp4)
+
+
 ## Author
 
 Patrick Felder
